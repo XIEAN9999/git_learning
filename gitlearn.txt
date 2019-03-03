@@ -1,3 +1,7 @@
 hello git
 hhh
+<<<<<<< HEAD
+hahaha
+=======
 new
+>>>>>>> 50dea8cd9d55172c9f9f02cca1eb94a5a5c029f7
